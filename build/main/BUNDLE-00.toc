@@ -1,3 +1,0 @@
-([('main',
-   '/Users/Xin/Documents/upwork/python-hangman/Hangman-TheWordGame/dist/main',
-   'EXECUTABLE')],)
